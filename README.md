@@ -1,6 +1,5 @@
 # TDD_project
-# school-library
-This is an application that have book records, adds the names of new teachers and students, add new books and save records of who borrowed a given book and when.
+This is an application that was developed following TDD rules.
 
 <a name="readme-top"></a>
 
@@ -8,9 +7,9 @@ This is an application that have book records, adds the names of new teachers an
 
 # 📗 Table of Contents
 
-- [school-library](#school-library)
+- [# TDD_project](## TDD_project)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[school-library\] ](#-school-library-)
+- [📖 \[school-library\] ](#-# TDD_project-)
   - [🛠 Built With Ruby, WSL](#-built-with-ruby-wsl)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
@@ -29,10 +28,10 @@ This is an application that have book records, adds the names of new teachers an
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [school-library] <a name="about-project"></a>
+# 📖 [# TDD_project] <a name="about-project"></a>
 
 
-**[school-library]** This is an application that have book records, adds the names of new teachers and students, add new books and save records of who borrowed a given book and when.
+**[# TDD_project]** This is an application that was developed following TDD rules.
 
 ## 🛠 Built With <a name="SQL">Ruby, WSL</a>
 
@@ -61,8 +60,6 @@ This is an application that have book records, adds the names of new teachers an
 - **[module]** This contains all ruby files.
 - **[Class]** This contains all the methods.
 - **[Use classes]**
-- **[Hashes]**
-- **[Use of YAGNI, KISS, and DRY rules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +81,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   cd my-enumerable
-  git clone [git@github](https://github.com/ikoote1/school-library.git)
+  git clone [git@github](https://github.com/MuhammadUsmanAslam/TDD_project.git)
 
 ### Install
 
@@ -123,11 +120,6 @@ You can deploy this project using:
 - Twitter: [@twitterhandle](https://twitter.com/ikootepreim1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ikooterasuli/)
 
-👤 **Lornakaboro**
-
-- GitHub: [@githubhandle](https://github.com/Lornakaboro)
-- Twitter: [@twitterhandle](https://twitter.com/KaboroLorna)
-- Linkedin [@linkedinprofile](https://www.linkedin.com/in/lorna-kaboro-23620b242/)
 
 👤 **Muhammad Usman Aslam**
 
@@ -144,8 +136,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[On exit from application add books, people, and rentals data into JSON files]**
-- [ ] **[On startup of your app load all data from files.]**
+- [ ] **[On exit from application carry out tests using rspec]**
+- [ ] **[On startup of your app allows inputs.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -17,14 +17,14 @@ describe "Solver" do
     end
   
     describe 'fizzbuzz' do
+      it 'Returns fizzbuzz if number is divisble by both 5 and 3' do
+        expect(solver.fizzbuzz(15)).to eq('fizzbuzz')
+      end
       it 'Returns fizz if number is divisble by 3' do
-        expect(solver.fizzbuzz(15)).to eq('fizz')
+        expect(solver.fizzbuzz(9)).to eq('fizz')
       end
       it 'Returns buzz if number is divisble by 5' do
         expect(solver.fizzbuzz(25)).to eq('buzz')
-      end
-      it 'Returns fizzbuzz if number is divisble by both 5 and 3' do
-        expect(solver.fizzbuzz(15)).to eq('fizzbuzz')
       end
     end
   end
